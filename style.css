@@ -9,6 +9,7 @@
 
 body {
   background-color: #cacaca;
+  min-height: 90vh;
 }
 
 header {
