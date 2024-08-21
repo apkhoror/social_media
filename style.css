@@ -6,8 +6,9 @@
   text-decoration: none;
 }
 
-body {
+html, body {
   background-color: #cacaca;
+  height: 100%;
 }
 
 header {
