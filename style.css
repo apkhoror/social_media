@@ -9,7 +9,7 @@
 
 body {
   background-color: #cacaca;
-  min-height: 100vh;
+  min-height: 90vh;
   position: relative;
 }
 
@@ -78,5 +78,6 @@ footer {
   font-size: 12px;
   position: absolute;
   bottom: 0;
+  width: 100%
   box-sizing: border-box;
 }
