@@ -75,7 +75,5 @@ footer {
   padding: 12px;
   text-align: center;
   font-size: 12px;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
+  position: relative;
 }
