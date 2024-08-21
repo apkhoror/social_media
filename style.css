@@ -12,11 +12,12 @@ body {
 
 header {
   text-align: center;
-  background-color: white;
-  padding: 32px 0;
+  background-color: black;
+  padding: 24px 0;
+  margin-bottom: 32px;
 }
 nav {
-  color: black;
+  color: white;
   font-size: larger;
   font-weight: bold;
 }
@@ -67,13 +68,12 @@ main a:nth-child(4):hover {
 }
 
 footer {
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
   padding: 12px;
   text-align: center;
   font-size: 12px;
   position: absolute;
   bottom: 0;
   width: 100%;
-  font-weight: bold;
 }
