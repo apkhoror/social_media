@@ -9,7 +9,8 @@
 
 body {
   background-color: #cacaca;
-  min-height: 90vh;
+  min-height: 100vh;
+  position: relative;
 }
 
 header {
@@ -75,6 +76,7 @@ footer {
   padding: 12px;
   text-align: center;
   font-size: 12px;
-  position: relative;
+  position: absolute;
   bottom: 0;
+  box-sizing: border-box;
 }
