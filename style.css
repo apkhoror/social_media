@@ -46,12 +46,11 @@ main a {
   /* border: 1px solid white; */
 }
 main a i {
+  color: white;
   margin-right: 6px;
   font-size: 24px;
 }
-main a:hover i {
-  color: white;
-}
+
 main a:nth-child(1) {
   background-color: #ff322b;
   color: white;
